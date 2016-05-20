@@ -1,6 +1,6 @@
 ---
 title: "Simulation project-- GLM, Case-crossover, or Cross-year models for climate-related epidemiology"
-author: "Brooke Anderson"
+author: "Brooke Anderson and Sarah Koehler"
 date: "November 12, 2015"
 output: html_document
 bibliography: SimulationBibliography.bib
@@ -18,7 +18,7 @@ library(splines)
 
 ### Exposure data
 
-There are several different possible ways to generate the simulated exposure data (or to pull in observed data to use for this). 
+There are several different possible ways to generae the simulated exposure data (or to pull in observed data to use for this). 
 
 For all of the simulated exposure series, this starts by specifying the number of days to simulate, `n`:
 
