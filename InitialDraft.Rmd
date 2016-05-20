@@ -1,5 +1,5 @@
 ---
-title: "Simulation paper-- GLM, Case-crossover, or Cross-year models for climate-related epidemiology"
+title: "Simulation project-- GLM, Case-crossover, or Cross-year models for climate-related epidemiology"
 author: "Brooke Anderson"
 date: "November 12, 2015"
 output: html_document
